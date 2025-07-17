@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lkm1developer-apollo-io-mcp-server-badge.png)](https://mseep.ai/app/lkm1developer-apollo-io-mcp-server)
+
 # Apollo.io MCP Server
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
